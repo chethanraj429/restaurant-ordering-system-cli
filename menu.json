@@ -1,0 +1,26 @@
+{
+    "nonveg": {
+        "starters": {
+            "chicken wings": 250,
+            "chicken 65": 200,
+            "chicken lollipop": 300
+        },
+        "main course": {
+            "chicken biryani": 350,
+            "mutton biryani": 400,
+            "chettinad chicken": 300
+        }
+    },
+    "veg": {
+        "starters": {
+            "gobi manchurian": 150,
+            "paneer tikka": 200,
+            "aloo tikki": 100
+        },
+        "main course": {
+            "veg biryani": 250,
+            "veg pulao": 200,
+            "fried rice": 180
+        }
+    }
+}
